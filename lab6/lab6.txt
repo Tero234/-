@@ -1,0 +1,22 @@
+2024-04-02 04:53:01 INFO (main:54) Start
+2024-04-02 04:53:01 INFO (consumer:16) CONSUMER: W1
+2024-04-02 04:53:01 INFO (consumer:19) CONSUMER: W2
+2024-04-02 04:53:02 INFO (producer:35) PRODUCER: Полученные производителем данные от h/w = 0 
+2024-04-02 04:53:02 INFO (producer:37) PRODUCER: WP1
+2024-04-02 04:53:02 INFO (producer:45) PRODUCER: WP3
+2024-04-02 04:53:02 INFO (consumer:21) CONSUMER: W3
+2024-04-02 04:53:02 INFO (consumer:23) CONSUMER: Полученные потребителем данные = 1 
+2024-04-02 04:53:02 INFO (consumer:16) CONSUMER: W1
+2024-04-02 04:53:02 INFO (consumer:19) CONSUMER: W2
+2024-04-02 04:53:03 INFO (producer:35) PRODUCER: Полученные производителем данные от h/w = 1 
+2024-04-02 04:53:03 INFO (producer:37) PRODUCER: WP1
+2024-04-02 04:53:03 INFO (producer:45) PRODUCER: WP3
+2024-04-02 04:53:03 INFO (consumer:21) CONSUMER: W3
+2024-04-02 04:53:03 INFO (consumer:23) CONSUMER: Полученные потребителем данные = 2 
+2024-04-02 04:53:03 INFO (consumer:16) CONSUMER: W1
+2024-04-02 04:53:03 INFO (consumer:19) CONSUMER: W2
+2024-04-02 04:53:04 INFO (producer:35) PRODUCER: Полученные производителем данные от h/w = 2 
+2024-04-02 04:53:04 INFO (producer:37) PRODUCER: WP1
+2024-04-02 04:53:04 INFO (producer:45) PRODUCER: WP3
+2024-04-02 04:53:04 INFO (consumer:21) CONSUMER: W3
+2024-04-02 04:53:04 INFO (consumer:23) CONSUMER: Полученные потребителем данные = 3 
